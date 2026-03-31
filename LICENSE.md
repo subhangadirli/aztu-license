@@ -1,0 +1,133 @@
+# AzTU Open Continuity License v2.1  
+### (AGPLv3-Based Strong Copyleft License)
+
+Copyright (c) 2026 AzTU Community
+
+---
+
+## 1. License Grant
+
+This project is licensed under the terms of the  
+**GNU Affero General Public License, version 3 (AGPLv3)**.
+
+You may use, modify, and distribute this Software under the conditions of AGPLv3.
+
+---
+
+## 2. Core Principle — Perpetual Openness
+
+All copies and derivative works of this Software must remain free and open.
+
+Accordingly:
+
+- You must not distribute this Software or Derivative Works as proprietary software
+- You must always provide access to the complete corresponding Source Code
+- This requirement applies to all forms of distribution, including network-based services
+
+---
+
+## 3. Network Use (SaaS Clause)
+
+If you modify this Software and use it to provide a service over a network:
+
+- You must provide users with access to the full corresponding Source Code
+- Access must be provided at no cost
+- The Source Code must be sufficient to rebuild and modify the Software
+
+This requirement is enforced under Section 13 of the AGPLv3.
+
+---
+
+## 4. Copyleft Requirement
+
+All Derivative Works must be licensed under:
+
+- **GNU Affero General Public License v3**, or
+- A license that is fully compatible with AGPLv3 and preserves the same freedoms
+
+Relicensing under a more restrictive or proprietary license is strictly prohibited.
+
+---
+
+## 5. No Additional Restrictions
+
+You may not impose any additional legal or technical restrictions, including:
+
+- Digital Rights Management (DRM)
+- Contractual limitations
+- Withholding of Source Code
+
+This clause follows Section 10 of AGPLv3.
+
+---
+
+## 6. Attribution
+
+You must retain:
+
+- Original copyright notices
+- Author names
+- This license notice
+
+---
+
+## 7. Patent License
+
+Each contributor grants you a:
+
+- Non-exclusive  
+- Worldwide  
+- Royalty-free  
+- Irrevocable (except in cases of patent litigation)
+
+license to any patents necessarily infringed by their contributions.
+
+This clause is consistent with Section 11 of AGPLv3.
+
+---
+
+## 8. Enforcement and Termination
+
+Any violation of this license automatically terminates your rights under it.
+
+However:
+
+- Your rights may be reinstated if you cease all violations
+- And come into full compliance within a reasonable period
+
+This follows the enforcement model of AGPLv3.
+
+---
+
+## 9. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+## 10. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
+
+---
+
+## 11. Interpretation
+
+In case of ambiguity, the terms and intent of the  
+**GNU Affero General Public License v3** shall prevail.
+
+---
+
+## 12. Final Note
+
+This license is a structured extension of AGPLv3 principles,  
+designed to reinforce the concept of perpetual openness.
+
+It does not replace AGPLv3, but builds upon it in a simplified and explicit form.
+
+---
+
+## 13. Notice
+
+This license has not been formally reviewed by a legal professional.  
+Use at your own risk.

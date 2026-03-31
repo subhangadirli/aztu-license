@@ -1,0 +1,27 @@
+# GitHub Action: Check for AzTU License Headers
+# Drop this into .github/workflows/license-check.yml
+name: License Header Check
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-license:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check for AzTU Header
+        run: |
+          # This simple script checks if your source files contain the SPDX identifier
+          # You can customize the file extensions you want to check
+          MISSING_HEADERS=$(find . -type f \( -name "*.js" -o -name "*.ts" -o -name "*.py" -o -name "*.go" -o -name "*.rs" \) -not -path "*/node_modules/*" -not -path "*/target/*" -exec grep -L "SPDX-License-Identifier: LicenseRef-AzTU-2.1" {} +)
+          
+          if [ -n "$MISSING_HEADERS" ]; then
+            echo "The following files are missing the AzTU license header:"
+            echo "$MISSING_HEADERS"
+            echo "Please add the header found in headers/LICENSE_HEADERS.md"
+            exit 1
+          else
+            echo "All source files have the correct license headers! 🎉"
+          fi
