@@ -16,7 +16,7 @@ of AGPLv3.
 
 
 2. CORE PRINCIPLE — PERPETUAL OPENNESS
----------------------------------------
+--------------------------------------
 
 All copies and derivative works of this Software must remain free and
 open.
@@ -32,7 +32,7 @@ Accordingly:
 
 
 3. NETWORK USE (SaaS Clause)
------------------------------
+----------------------------
 
 If you modify this Software and use it to provide a service over a
 network:
@@ -47,7 +47,7 @@ This requirement is enforced under Section 13 of the AGPLv3.
 
 
 4. COPYLEFT REQUIREMENT
-------------------------
+-----------------------
 
 All Derivative Works must be licensed under:
 
@@ -60,7 +60,7 @@ strictly prohibited.
 
 
 5. NO ADDITIONAL RESTRICTIONS
--------------------------------
+-----------------------------
 
 You may not impose any additional legal or technical restrictions,
 including:
@@ -73,7 +73,7 @@ This clause follows Section 10 of AGPLv3.
 
 
 6. ATTRIBUTION
----------------
+--------------
 
 You must retain:
 
@@ -83,7 +83,7 @@ You must retain:
 
 
 7. PATENT LICENSE
-------------------
+-----------------
 
 Each contributor grants you a:
 
@@ -98,7 +98,7 @@ This clause is consistent with Section 11 of AGPLv3.
 
 
 8. ENFORCEMENT AND TERMINATION
---------------------------------
+------------------------------
 
 Any violation of this license automatically terminates your rights
 under it.
@@ -112,27 +112,27 @@ This follows the enforcement model of AGPLv3.
 
 
 9. DISCLAIMER OF WARRANTY
----------------------------
+-------------------------
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 
 10. LIMITATION OF LIABILITY
------------------------------
+---------------------------
 
 IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY DAMAGES ARISING FROM
 THE USE OF THIS SOFTWARE.
 
 
 11. INTERPRETATION
--------------------
+------------------
 
 In case of ambiguity, the terms and intent of the
 GNU Affero General Public License v3 shall prevail.
 
 
 12. FINAL NOTE
----------------
+--------------
 
 This license is a structured extension of AGPLv3 principles, designed
 to reinforce the concept of perpetual openness.
@@ -142,7 +142,7 @@ explicit form.
 
 
 13. NOTICE
------------
+----------
 
 This license has not been formally reviewed by a legal professional.
 Use at your own risk.
